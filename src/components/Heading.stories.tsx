@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from "@storybook/react";
-import { Heading , HeadingProps } from "./Heading";
+import { Heading, HeadingProps } from "./Heading";
 
 export default {
   title: "Components/Heading",
@@ -46,7 +46,7 @@ export const CustomComponent: StoryObj<HeadingProps> = {
     asChild: {
       table: {
         disable: true,
-      }
-    }
+      },
+    },
   },
 };

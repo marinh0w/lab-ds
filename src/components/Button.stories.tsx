@@ -5,7 +5,7 @@ export default {
   title: "Components/Button",
   component: Button,
   args: {
-    children: "Cria Sua Conta",
+    children: "Crie Sua Conta",
     size: "md",
   },
   argTypes: {},
